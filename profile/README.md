@@ -1,3 +1,3 @@
-# Organización GitHub de la asignatura SYTWS para el curso 21/22
+# Organización GitHub de la asignatura SYTWS para el curso 22/23
 
-Véase <https://ull-mii-sytws-2122.github.io/> para mas información
+Véase <https://ull-mii-sytws.github.io/> para mas información
