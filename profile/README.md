@@ -5,4 +5,5 @@ Bienvenido a la Organización GitHub de la asignatura *Sistemas y Tecnologías W
 
 * See <https://ull-mii-sytws.github.io/> for the latest version of the notes
 * See <https://ull-mii-sytws-2324.github.io/> for course notes 23/24
+* See <https://campusdoctoradoyposgrado2324.ull.es/course/view.php?id=2324110726> for the Campus Virtual
 * GitHub Classrom at: <https://classroom.github.com/classrooms/144119227-ull-mii-sytws-2324>
